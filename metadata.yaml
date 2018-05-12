@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43055#Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXVIII-Sept.-1910-Start-End-Pape_
 gutenberg_issued: '2013-06-28'
 gutenberg_type: Text
 identifiers:
